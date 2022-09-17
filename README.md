@@ -6,6 +6,10 @@
   `git branch` or `git branch -a`
 - change branch
   `git checkout "branch-name"`
+- view existing remote
+  `git remote -v`
+-change the origin's remote URL
+  `git remote set-url origin https://github.com/aminMuktar/socialsense.git`
 - push to specific branch
    `git push --set-upstream origin "branch-name"`
 - merge branch
@@ -73,7 +77,7 @@ Undo changes to the local file. Restore to the last commit
 
 ✤ git pull <remote>
 
-→ Used to pull down all the updates rom the remote repository.
+→ Used to pull down all the updates from the remote repository.
 
 ✤ git rm <file-name>
 
