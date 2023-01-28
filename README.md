@@ -97,4 +97,10 @@ diff file1.py file2.py
 
 ```
 
+### for graphical difference
+
+```
+vimdiff file1.py file2.py
+
+```
 → Used to temporarily remove uncommitted changes.
