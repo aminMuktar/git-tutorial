@@ -85,4 +85,16 @@ Undo changes to the local file. Restore to the last commit
 
 ✤ git stash
 
+
+## keeping historical copies
+this copies lets you see what the project looks like before
+
+
+### return the difference of two files
+
+```
+diff file1.py file2.py
+
+```
+
 → Used to temporarily remove uncommitted changes.
