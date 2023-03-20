@@ -104,3 +104,8 @@ vimdiff file1.py file2.py
 
 ```
 → Used to temporarily remove uncommitted changes.
+
+### clone specific branch
+```
+git clone --single-branch --branch <branchname> <remote-repo>
+```
